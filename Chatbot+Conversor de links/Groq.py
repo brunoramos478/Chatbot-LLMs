@@ -1,3 +1,4 @@
+# Desenvolvido por Bruno Ramos 👨‍💻
 # Bibliotecas usadas
 
 import os
